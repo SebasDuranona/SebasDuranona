@@ -12,9 +12,7 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 
 - **Security Blog**: Check out my blog where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
 
-- **Identity Management Systems Report**: Find my in-depth report titled "Exploring the Benefits and Risks of Decentralized Identity Systems," providing valuable insights into the world of identity management. -- (UNDER CONSTRUCTION)
-
-!- **Security-Related Projects**: Discover small projects that focus on security concepts and demonstrate my knowledge of secure coding practices. -- (UNDER CONSTRUCTION)
+- **Security-Related Projects**: Discover small projects that focus on security concepts and demonstrate my knowledge of secure coding practices. -- (UNDER CONSTRUCTION)
 - 
 ## 📬 Let's Connect
 
