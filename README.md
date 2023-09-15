@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 
 ## 🚀 What You'll Find Here
 
-- **C Programming Projects**: Explore my [C programming](/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
+- **C Programming Projects**: Explore my [C programming](https://github.com/SebasDuranona/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
 
 - **Data Structures Projects**: Dive into my data structures projects. -- (UNDER CONSTRUCTION) 
 <!--
