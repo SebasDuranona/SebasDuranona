@@ -6,14 +6,14 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 
 ## 🚀 What You'll Find Here
 
-- [**C Programming Projects**](/CodeVault_C): Explore my C programming assignments and projects, demonstrating my coding skills and problem-solving abilities. -- (UNDER CONSTRUCTION)
+- **C Programming Projects**: Explore my [C programming](/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
 
-- **Data Structures Projects**: Dive into my data structures projects, where I apply algorithms and data structures to real-world scenarios. -- (UNDER CONSTRUCTION) 
-
+- **Data Structures Projects**: Dive into my data structures projects. -- (UNDER CONSTRUCTION) 
+<!--
 - **Security Blog**: Check out my blog where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
 
 - **Security-Related Projects**: Discover small projects that focus on security concepts and demonstrate my knowledge of secure coding practices. -- (UNDER CONSTRUCTION)
-
+-->
 ## 📬 Let's Connect
 
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and anyone interested in the field. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-gomez-duranona-46bb87185/).
