@@ -2,7 +2,7 @@
 
 ![Profile Banner](Github_banner.png)
 
-Welcome to my GitHub portfolio, where I showcase my journey in the world of cybersecurity and fraud, with a focus on Trust and Identity Management. I'm Sebastian, a passionate computer science student with a strong desire to strengthen my knowledge in Information security. My goal is to become a Penetration Tester specializing in Identity Management Systems and path the way to a safer, more trustworthy Internet. 
+Welcome to my GitHub portfolio, where I showcase my journey in the world of cybersecurity and fraud, with a focus on Trust and Identity Management. I'm Sebastian, a passionate computer science student with a strong desire to strengthen my knowledge in Information security. My goal is to become a Penetration Tester specializing in Identity Management Systems and pave the way to a safer, more trustworthy Internet. 
 
 ## 🚀 What You'll Find Here
 
