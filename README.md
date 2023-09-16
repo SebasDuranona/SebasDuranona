@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 
 - **C Programming Projects**: Explore my [C programming](https://github.com/SebasDuranona/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
 
-- **Data Structures Projects**: Dive into my data structures projects. -- (UNDER CONSTRUCTION) 
+- **Data Structures Projects**: Dive into my [data structures](https://github.com/SebasDuranona/DSVault) projects. -- (UNDER CONSTRUCTION) 
 <!--
 - **Security Blog**: Check out my blog where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
 
