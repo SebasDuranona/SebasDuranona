@@ -8,12 +8,12 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 
 - **C Programming Projects**: Explore my [C programming](https://github.com/SebasDuranona/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
 
-- **Data Structures Projects**: Dive into my [data structures](https://github.com/SebasDuranona/DSVault) projects. -- (UNDER CONSTRUCTION) 
-<!--
-- **Security Blog**: Check out my blog where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
+- **Data Structures Projects**: Dive into my [data structures](https://github.com/SebasDuranona/DSVault) projects. -- (UNDER CONSTRUCTION)
+  
+- **SandhillScapegoat Security and Identity Blog**: Check out the [SandhillScapegoat](https://github.com/SandhillScapegoat/SandhillScapegoat) blog, where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
 
-- **Security-Related Projects**: Discover small projects that focus on security concepts and demonstrate my knowledge of secure coding practices. -- (UNDER CONSTRUCTION)
--->
+- **Personal Blog**: For more personal takes, professional information and contact. -- (UNDER CONSTRUCTION)
+- 
 ## 📬 Let's Connect
 
 I'm always eager to connect with fellow cybersecurity enthusiasts, professionals, and anyone interested in the field. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-gomez-duranona-46bb87185/).
