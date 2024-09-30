@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 - **Networking Projects**: Here you will find some basic/intermediate projects that focus on [Computer Networking](https://github.com/SebasDuranona/Networking) topics.
 - **Data Structures Tutorial**: Dive into my [data structures](https://github.com/SebasDuranona/DSVault/tree/main/DSTutorials) tutorial.
   
-- **SandhillScapegoat Security and Identity Blog**: Check out the [SandhillScapegoat](https://sandhillscapegoat.substack.com/) blog, where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field.
+- **SandhillScapegoat Blog**: Check out the [SandhillScapegoat](https://sandhillscapegoat.substack.com/) blog, where I share insights, case studies, and tutorials on topics related to Trust, Identity Management, and more.
 
 ## 📬 Let's Connect
 
