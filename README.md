@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio, where I showcase my journey in the world of cybe
 ## 🚀 What You'll Find Here
 
 - **C Programming Projects**: Explore my [C programming](https://github.com/SebasDuranona/CodeVault_C) projects. -- (UNDER CONSTRUCTION)
-
+- **Networking Projects**: Here you will find some basic/intermediate projects that focus on [Computer Networking](https://github.com/SebasDuranona/Networking) topics.
 - **Data Structures Tutorial**: Dive into my [data structures](https://github.com/SebasDuranona/DSVault/tree/main/DSTutorials) tutorial.
   
 - **SandhillScapegoat Security and Identity Blog**: Check out the [SandhillScapegoat](https://github.com/SandhillScapegoat/SandhillScapegoat) blog, where I share insights, case studies, and tutorials on topics related to Trust and Identity Management in the cybersecurity field. -- (UNDER CONSTRUCTION)
